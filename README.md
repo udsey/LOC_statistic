@@ -9,6 +9,6 @@ Calculates statistics for a specific repository by analyzing pull requests (PRs)
    - [`jq`](https://stedolan.github.io/jq/) for processing JSON data.
 3. Run the script in your terminal:
    ```bash
-   ./LOC_statistic.sh
+   ./calculate_prs.sh
    ```
 4. Customize the START_DATE and MAX_LOC variables in the script to suit your requirements.
